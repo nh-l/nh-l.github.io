@@ -3,6 +3,7 @@ layout: default
 title: Make Method
 nav_order: 1
 parent: Code Smells
+grand_parent: Guideline
 ---
 
 # 함수 작성 시 확인

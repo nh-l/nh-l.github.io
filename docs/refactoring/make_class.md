@@ -3,6 +3,7 @@ layout: default
 title: Make Class
 nav_order: 2
 parent: Code Smells
+grand_parent: Guideline
 ---
 
 # 클래스 작성 시 확인
